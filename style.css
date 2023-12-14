@@ -1,0 +1,29 @@
+.heading {
+  margin: 50px 0;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 400;
+  font-family: 'Silkscreen', sans-serif; 
+}
+
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.score {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+  font-size: 40px;
+  font-family: 'Silkscreen', sans-serif;
+}
+img{
+  height: 250px;
+  width: 290px;
+  ;
+}
+body{
+  background-color: red;
+}
